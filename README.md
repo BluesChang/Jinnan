@@ -32,7 +32,7 @@ numpy, pandas, lightgbm, xgboost, sklearn
 
 ## 文件说明
 
-包括[初赛](https://github.com/BluesChang/Jinnan/tree/master/%E5%88%9D%E8%B5%9B)和复赛，初赛中包括[本地最终程序](https://github.com/taoyafan/jinnan/blob/master/%E5%88%9D%E8%B5%9B/%E6%9C%80%E7%BB%88%E7%A8%8B%E5%BA%8F.ipynb)（.ipynb）、[提交的程序](https://github.com/taoyafan/jinnan/tree/master/%E5%88%9D%E8%B5%9B/%E6%B4%A5%E5%8D%97%E6%95%B0%E5%AD%97%E5%88%B6%E9%80%A0%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B%2B20%2BDrop)（.py）和 [历史程序](https://github.com/taoyafan/jinnan/tree/master/%E5%88%9D%E8%B5%9B/history)。
+包括[初赛](https://github.com/BluesChang/Jinnan/tree/master/%E5%88%9D%E8%B5%9B)和复赛，初赛中包括[本地最终程序](https://github.com/BluesChang/jinnan/blob/master/%E5%88%9D%E8%B5%9B/%E6%9C%80%E7%BB%88%E7%A8%8B%E5%BA%8F.ipynb)（.ipynb）、[提交的程序](https://github.com/BluesChang/jinnan/tree/master/%E5%88%9D%E8%B5%9B/%E6%B4%A5%E5%8D%97%E6%95%B0%E5%AD%97%E5%88%B6%E9%80%A0%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B%2B20%2BDrop)（.py）和 [历史程序](https://github.com/BluesChang/jinnan/tree/master/%E5%88%9D%E8%B5%9B/history)。
 
 建议看[本地最终程序](https://github.com/BluesChang/Jinnan/blob/master/%E5%88%9D%E8%B5%9B/%E6%9C%80%E7%BB%88%E7%A8%8B%E5%BA%8F.ipynb)，里面标题、注释和输出都比较全，方便阅读。
 
